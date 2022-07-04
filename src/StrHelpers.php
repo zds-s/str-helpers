@@ -6,7 +6,7 @@ use Doctrine\Inflector\InflectorFactory;
 use Doctrine\Inflector\Language;
 use Overtrue\Pinyin\Pinyin;
 
-class Helpers
+class StrHelpers
 {
     /**
      * 字符串全部转小写
